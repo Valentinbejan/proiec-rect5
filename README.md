@@ -13,7 +13,11 @@
 
 
 
-https://github.com/Valentinbejan/proiect-rect5/assets/118570823/4bab6fa1-4f90-480f-b7ca-ddaf080c126a
+
+https://github.com/Valentinbejan/proiect-react5/assets/118570823/8226deb1-6123-4222-a9b6-1c8e9c330f79
+
+
+
 
 rulare:
 
