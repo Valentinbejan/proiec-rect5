@@ -9,3 +9,14 @@
 •	La array-ul inițial de obiecte, am adăugat proprietatea "culoare" fără a modifica structura obiectului. Array-ul inițial: [{ id: 1, name: 'Telefon', price: 1000 }, { id: 2, name: 'Laptop', price: 2000 }, { id: 3, name: 'Tabletă', price: 500 }] Array-ul modificat: [{ id: 1, name: 'Telefon', price: 1000 }, { id: 2, name: 'Laptop', price: 2000, color: 'silver' }, { id: 3, name: 'Tabletă', price: 500 }]
 
 •	La al doilea element al array-ului "products", am adăugat o nouă proprietate "marca". Array-ul inițial: [{ id: 2, name: 'Laptop', price: 2000, color: 'gray', weight: '0.1kg' }] Rezultatul: [{ id: 2, name: 'Laptop', price: 2000, color: 'gray', weight: '0.1kg', marca: 'Samsung' }]
+
+
+
+
+https://github.com/Valentinbejan/proiect-rect5/assets/118570823/4bab6fa1-4f90-480f-b7ca-ddaf080c126a
+
+rulare:
+
+npm install
+
+npm install antd
